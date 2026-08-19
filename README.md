@@ -1,10 +1,10 @@
-# Chronoql Gossip
+# Gossip
 
 **The offline-first tactical command center for AI-assisted software development.**
 
 Whether you are a seasoned data engineer orchestrating complex systems or an entry-level IT professional building your first application with an LLM, the hardest part of AI-assisted development isn't writing the code—it's managing the context.
 
-**Chronoql Gossip** is a desktop operating environment designed to solve the "context window" problem. It provides a suite of visual, offline-first tools to help you define strict architectural boundaries, compress your codebase into optimized LLM prompts, and safely integrate AI-generated payloads back into your local file system.
+**Gossip** is a desktop operating environment designed to solve the "context window" problem. It provides a suite of visual, offline-first tools to help you define strict architectural boundaries, compress your codebase into optimized LLM prompts, and safely integrate AI-generated payloads back into your local file system.
 
 Everything happens locally. No cloud syncs, no telemetry, no internet required. Your codebase and your architecture remain entirely sovereign.
 
@@ -12,7 +12,7 @@ Everything happens locally. No cloud syncs, no telemetry, no internet required. 
 
 ## Core Modules
 
-Chronoql Gossip is divided into distinct operational domains to help you manage every phase of the development lifecycle.
+Gossip is divided into distinct operational domains to help you manage every phase of the development lifecycle.
 
 ### Ideation & Planning
 
@@ -41,11 +41,11 @@ Chronoql Gossip is divided into distinct operational domains to help you manage 
 
 ## The Philosophy: Offline-First & Vanilla
 
-Chronoql Gossip is built as a standalone desktop application, but it actively rejects the bloat of modern frontend frameworks.
+Gossip is built as a standalone desktop application, but it actively rejects the bloat of modern frontend frameworks.
 
 - **Zero Internet Required:** The application is driven entirely by a robust, locally managed database.
 - **Strict Separation of Concerns:** The UI is built with native HTML5, CSS3, and Vanilla JavaScript.
 - **High-Contrast Accessibility:** The interface is engineered for long coding sessions, prioritizing readable typography, distinct visual hierarchies, and low-fatigue interaction design.
 
-## Get the app: [gossip](https://GitHub.com/chronoql/gossip/releases)
+## Get the app: [gossip](https://GitHub.com/curtiswashington/gossip/releases)
 
